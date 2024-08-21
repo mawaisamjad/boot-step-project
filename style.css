@@ -1,0 +1,70 @@
+.margin{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #dbb88e;
+}
+.img-logo{
+    width: 60px;
+}
+.anchar{
+    font-size: 18px;
+    font-weight:500;
+}
+#color{
+    color: #ffff;
+   margin: 0px 15px;
+  
+}
+#color:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+#btn-color{
+    background-color: #ffff;
+    outline: none;
+}
+.main-iamge{
+    height: 450px;
+}
+.heaing{
+    color: #dbb88e;
+    font-size: 40px;
+    font-family: "Dancing Script", system-ui;
+}
+.btn-color{
+    background:#c48d5a;
+    font-style: italic;
+    font-weight: bold;
+    color: #ffff;
+}
+.btn-color1{
+    background:#c48d5a;
+    font-style: italic;
+    font-weight: bold;
+    color: #ffff;
+}
+
+.btn-color:hover{
+    background:#dbb88e;
+
+}
+.btn-color1:hover{
+    background:#dbb88e;
+
+}
+.color{
+   background:whitesmoke ;
+    font-style: italic;
+}
+#footer{
+    background: #ffff;
+    margin-top: 20px;
+}
+.marg{
+    margin: 30px 0px;
+}
+.curser{
+    cursor: pointer;
+}
